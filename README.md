@@ -1,4 +1,4 @@
-CSC 1204 Data Structures and Algorithms Project
+#CSC 1204 Data Structures and Algorithms Project
 Traveling Salesman Problem Using Classical and SOM-Based Methods
 
 Welcome to the official repository for Group L's Data Structures and Algorithms (DSA) project.
