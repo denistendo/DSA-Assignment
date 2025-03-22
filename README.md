@@ -71,6 +71,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 For any questions or suggestions, please contact us at:
+
 Group L Members:
 
   - [Ssebyala Denis Tendo](https://github.com/denistendo)
