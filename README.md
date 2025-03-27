@@ -11,22 +11,14 @@ This repository hosts Computer Science Year 1 Group L's code for the Traveling S
 - [Contact](#contact)
 
 ## Project Overview
-It contains implementations of various data structures and algorithms that we've explored during our DSA course. The primary goal is to represent and solve a small instance of the Travelling Salesman Problem (TSP) using a classical algorithm (e.g. Dynamic Programming, Branch-and-Bound, or Nearest Neighbor) and implementation of a Self-Organizing Map (SOM) approach to approximate a solution to the same
-TSP instance.
+It contains implementations of various data structures and algorithms that we've explored during our DSA course. The primary goal is to represent and solve a small instance of the Travelling Salesman Problem (TSP) using a classical algorithm (Dynamic Programming) and implementation of a Self-Organizing Map (SOM) approach to approximate a solution to the same TSP instance.
 
 ## Features
 - **Data Structures**:
   - Arrays
-  - Linked Lists
-  - Stacks
-  - Queues
-  - Trees (e.g., Binary Search Trees, AVL Trees)
-  - Graphs
+  - Graphs (Adjacency matrix)
 
 - **Algorithms**:
-  - Sorting Algorithms (e.g., Quick Sort, Merge Sort)
-  - Searching Algorithms (e.g., Binary Search)
-  - Graph Algorithms (e.g., Dijkstra's Algorithm, Depth-First Search)
   - Dynamic Programming Solutions
 
 ## Installation
@@ -44,9 +36,10 @@ To run or test the implementations locally, follow these steps:
 
 ## Usage
 
-python script_"name".py
+python script_Question 2( Classical TSP Solution).py
+python script_question 3( Self-Organizing Map (SOM) Approach).py
 
-Each program may have its own set of input requirements and usage instructions. Refer to the comments within the code or accompanying documentation for specific details.
+Each program may have its own set of input requirements and usage instructions. Refer to the comments within the code for specific details.
 
 ## Contributing
 We welcome contributions from fellow students and the open-source community to enhance this repository. To contribute:
