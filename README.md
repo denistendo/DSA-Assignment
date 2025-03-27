@@ -26,17 +26,18 @@ To run or test the implementations locally, follow these steps:
 
 1. **Clone the repository**:
 
-	git clone https://github.com/denistendo/DSA-Assignment.git
+	https://github.com/denistendo/DSA-Assignment-GROUP-L.git
 
 2. **Navigate to the project directory**:
 
-	cd DSA-Assignment
+	cd DSA-Assignment-GROUP-L
 
 3. **Ensure you have Python installed**
 
 ## Usage
 
 python script_Question 2( Classical TSP Solution).py
+
 python script_question 3( Self-Organizing Map (SOM) Approach).py
 
 Each program may have its own set of input requirements and usage instructions. Refer to the comments within the code for specific details.
